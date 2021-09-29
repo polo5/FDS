@@ -11,9 +11,9 @@ Our task is to learn hyperparameters with gradients such as learning rate, momen
 ## Environment
 Tested on:
 - Python 3.8
-- pytorch 1.9 (both cpu and gpu ok)
-- torchvision 0.9.0
-- numpy 1.19.2
+- pytorch 1.9.1 (both cpu and gpu ok)
+- torchvision 0.10.1
+- numpy 1.20.3
 
 ## Run
 - The main results from the paper are obtained with the file `main.py`, and the relevant configurations are provided in `scripts/figure1.sh` and `scripts/figure4.sh`
